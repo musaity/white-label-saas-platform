@@ -1003,19 +1003,28 @@ For technical support, customization requests, or enterprise licensing inquiries
 
 ## License
 
-Commercial License. All rights reserved.
+## License & Commercial Use 
 
-This software is licensed for commercial use. You may:
-- Deploy the platform for your own SaaS business
-- Customize and white-label the application
-- Use for unlimited projects
+**⚠️ NOTICE: PROPRIETARY SHOWCASE**
 
-You may not:
-- Redistribute the source code
-- Resell the source code
-- Sub-license to third parties
+This repository contains a **limited showcase version** of a commercial SaaS product. The code provided here is for **educational and portfolio demonstration purposes only**.
 
-See LICENSE file for complete terms.
+### ❌ For Visitors of this Repository (Public Access)
+You are **NOT** allowed to:
+- Deploy this codebase for commercial use.
+- Use these files to create a competing product.
+- Redistribute or resell this source code.
+
+### ✅ For Commercial License Holders (Paid Customers)
+If you obtain a valid commercial license from the author, you will receive the **full production codebase** which grants you the right to:
+- Deploy the platform for your own SaaS business.
+- Customize and white-label the application.
+- Use for unlimited projects.
+
+**Interested in purchasing a license or white-labeling this platform?**
+Please contact the author for pricing and details.
+
+Copyright © 2026. All rights reserved.
 
 ---
 
