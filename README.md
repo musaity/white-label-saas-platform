@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo-banner.png" alt="AI Creative Studio" width="800" />
+  <img src="docs/images/logo-banner.png" alt="AI Creative Studio" width="128" />
 </p>
 
 <h1 align="center">AI Creative Studio</h1>
